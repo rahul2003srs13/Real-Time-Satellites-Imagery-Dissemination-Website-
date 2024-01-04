@@ -1,6 +1,6 @@
 # AstroPic
 
-An website for getting the high resolution astrononical images daily. The app uses the nasa api to get the fasinating space images with descriptiton. It also includes date search feature to fetch the data of specific day and date.
+Spark cosmic curiosity through my web app, delivering daily high-resolution NASA astronomical images with enriching descriptions. Users can effortlessly explore space's grandeur through an intuitive interface and powerful date search functionality
 
 ## Tech Stack
 
@@ -49,11 +49,11 @@ An website for getting the high resolution astrononical images daily. The app us
 | :-------- | :----------- | :------ | :------------------------------------- |
 | `date`    | `YYYY-MM-DD` | `today` | The date of the APOD image to retrieve |
 
-## Developer - Kritagya Singh Chouhan
+## Developer - Rahul Shrivastava
 
-- [@kritagya20](https://www.github.com/kritagya20) : GitHub
-- [@kritagya_chouhan](https://www.instagram.com/kritagya_chouhan/) : Instagram
-- [@kritagyachouhan](https://twitter.com/kritagyachouhan/) : Twitter
+- [@rahul2003srs13](https://www.github.com/rahul2003srs13) : GitHub
+- [@rahul_2003_srs](https://www.instagram.com/rahul_2003_srs/) : Instagram
+
 
 ## Contributing
 
