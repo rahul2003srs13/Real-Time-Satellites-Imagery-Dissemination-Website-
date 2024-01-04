@@ -51,9 +51,8 @@ An website for getting the high resolution astrononical images daily. The app us
 
 ## Developer - Kritagya Singh Chouhan
 
-- [@kritagya20](https://www.github.com/kritagya20) : GitHub
-- [@kritagya_chouhan](https://www.instagram.com/kritagya_chouhan/) : Instagram
-- [@kritagyachouhan](https://twitter.com/kritagyachouhan/) : Twitter
+- [@rahul2003srs13]((https://github.com/rahul2003srs13)) : GitHub
+- [@rahul_2003_srs]((https://www.instagram.com/rahul_2003_srs)/) : Instagram
 
 ## Contributing
 
