@@ -49,7 +49,7 @@ Spark cosmic curiosity through my web app, delivering daily high-resolution NASA
 | :-------- | :----------- | :------ | :------------------------------------- |
 | `date`    | `YYYY-MM-DD` | `today` | The date of the APOD image to retrieve |
 
-## Developer - Kritagya Singh Chouhan
+## Developer - Rahul Shrivastava
 
 - [@rahul2003srs13]((https://github.com/rahul2003srs13)) : GitHub
 - [@rahul_2003_srs]((https://www.instagram.com/rahul_2003_srs)/) : Instagram
