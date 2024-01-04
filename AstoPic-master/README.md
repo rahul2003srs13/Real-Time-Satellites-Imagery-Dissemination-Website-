@@ -1,6 +1,6 @@
 # AstroPic
 
-An website for getting the high resolution astrononical images daily. The app uses the nasa api to get the fasinating space images with descriptiton. It also includes date search feature to fetch the data of specific day and date.
+Spark cosmic curiosity through my web app, delivering daily high-resolution NASA astronomical images with enriching descriptions. Users can effortlessly explore space's grandeur through an intuitive interface and powerful date search functionality
 
 ## Tech Stack
 
